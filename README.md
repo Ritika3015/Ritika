@@ -2,7 +2,7 @@
 
 🚀 **Data Analyst | Python | SQL | Machine Learning | Power BI | Advanced Excel**  
 
-I’m passionate about transforming raw data into actionable insights. With 4+ years of experience in the **coal gasification industry (Technical Cell, Jindal Steel & Power)**, I specialize in analyzing operational data, building dashboards, and delivering insights that drive decision-making.  
+I’m passionate about transforming raw data into actionable insights. With 4+ years of experience in the **Technical Cell, Jindal Steel)**, I specialize in analyzing operational data, building dashboards, and delivering insights that drive decision-making.  
 
 ---
 
